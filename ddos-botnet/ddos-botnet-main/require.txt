@@ -1,0 +1,12 @@
+pysocks
+requests
+pyfiglet
+os
+colorama
+socket
+threading
+ssl
+datetime
+time
+random
+sys
